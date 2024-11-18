@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\bin\Debug\DVLDDataAccess.dll
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\bin\Debug\DVLDDataAccess.pdb
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.dll
+C:\Users\Administrator\Desktop\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.pdb
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\bin\Debug\DVLDDataAccess.dll
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\bin\Debug\DVLDDataAccess.pdb
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.AssemblyReference.cache
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.CoreCompileInputs.cache
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.dll
+F:\coursesVS\course19vscom\DVLDProject\DVLDDataAccess\obj\Debug\DVLDDataAccess.pdb
